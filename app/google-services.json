@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026437067425",
+    "project_id": "crud-assignments",
+    "storage_bucket": "crud-assignments.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026437067425:android:cc26434e682cdd214736e0",
+        "android_client_info": {
+          "package_name": "com.example.crud_assignments"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSMTjOQJ6iUlFi4c-TZpgYkLrIOIEj6XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
